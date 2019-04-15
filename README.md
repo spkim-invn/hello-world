@@ -1,2 +1,8 @@
 # hello-world
-I can't skip this ritual
+Can't skip the ritual
+
+edited - #1
+
+
+
+
